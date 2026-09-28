@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/profile.png" width="140" style="border-radius:50%" alt="Devesh Kumar" />
+  <img src="D:\Devesh\DevStyle" width="140" style="border-radius:50%" alt="Devesh Kumar" />
 </p>
 
 I build real-world products, not just projects.
