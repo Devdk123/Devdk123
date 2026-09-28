@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1jZjzmJK3Q_ENU5cbgCRTlm6CwAo87FTr/view?usp=sharing" width="140" style="border-radius:50%" alt="Devesh Kumar" />
+  <img src="./assets/dev-terminal.svg" width="100%" alt="Devesh Kumar System Info" />
 </p>
 
 I build real-world products, not just projects.
