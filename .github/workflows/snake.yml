@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Contribution Snake & Arcade Games
 
 on:
   schedule:
@@ -15,7 +15,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -28,6 +28,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Generate Pac-Man Contribution Graph SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman'
 
       - name: Push SVGs to output branch
         uses: peaceiris/actions-gh-pages@v4
