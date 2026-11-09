@@ -132,6 +132,18 @@ A production website built and deployed for a real client in the travel & touris
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devdk123/Devdk123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devdk123/Devdk123/output/github-contribution-grid-snake.svg" />
+    <img alt="Devdk123 GitHub Contribution Snake" src="https://raw.githubusercontent.com/Devdk123/Devdk123/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </p>
